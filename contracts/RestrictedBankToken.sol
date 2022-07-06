@@ -13,7 +13,7 @@ See MIT Licence for further details.
 <https://opensource.org/licenses/MIT>.
 */
 
-pragma solidity ^0.4.20;
+pragma v0.6.6+commit.c089d02;
 
 import {ERC20Token} from './erc20Token.sol';
 import {SafeMath} from '../node_modules/zeppelin-solidity/contracts/math/SafeMath.sol';

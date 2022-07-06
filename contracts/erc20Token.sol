@@ -8,7 +8,7 @@ See MIT Licence for further details.
 <https://opensource.org/licenses/MIT>.
 */
 
-pragma solidity ^0.4.20;
+pragma v0.4.18+commit.cf6e910;
 
 import {SafeMath} from '../node_modules/zeppelin-solidity/contracts/math/SafeMath.sol';
 
